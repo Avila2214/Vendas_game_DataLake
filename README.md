@@ -26,7 +26,7 @@ Este projeto realiza a análise e o processamento de dados sobre vendas de jogos
 ## Instruções para Execução
 
 **Clonar o repositório**:
-https://github.com/Avila2214/Combustiveis_DataLake.git
+https://github.com/Avila2214/Vendas_game_DataLake.git
 
 **Instale as dependências necessárias.**
 
