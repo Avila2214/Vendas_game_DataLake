@@ -1,5 +1,3 @@
-# Preços de Combustíveis Data Lake
-
 ## Sobre o Projeto
 
 Este projeto realiza a análise e o processamento de dados sobre vendas de jogos de vídeo game, utilizando uma estrutura de Data Lake para organizar. Com a análise deste conjunto de dados, o objetivo é identificar padrões e tendências de vendas de jogos e gerar insights úteis sobre o comportamento do mercado de jogos.
