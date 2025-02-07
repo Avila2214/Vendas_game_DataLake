@@ -12,7 +12,6 @@ Este projeto realiza a análise e o processamento de dados sobre vendas de jogos
 
 - **Linguagem**: Python
 - **Biblioteca**: Pandas e Numpy
-- 
 - **Ferramentas**: Jupyter Notebook - para análise exploratória
 
 ## Funcionalidades
